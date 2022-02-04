@@ -1,4 +1,4 @@
-# Log of Round 1 of #100DaysOfCode - done in 2022
+# Log of Round 1 of #100DaysOfCode - in 2022
 
 ### Day 1: February 1. Wednesday
 
