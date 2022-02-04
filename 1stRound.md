@@ -1,6 +1,6 @@
 # Log of Round 1 of #100DaysOfCode - done in 2022
 
-### Day 1: June 13. Monday
+### Day 1: February 1. Wednesday
 
 **Today's Progress**: Spent time in a JS course in udemy and updating a small proyect (PixabayImages).
 
