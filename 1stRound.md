@@ -9,5 +9,5 @@
 
 **Today's Progress**: Spent time in a JS course in udemy and started a new proyect that is cotizador de criptomonedas.
 
-**Thoughts:** I a little bit tired, but still wanna code.
+**Thoughts:** I'm a little bit tired, but still wanna code.
 
