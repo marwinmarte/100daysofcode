@@ -10,7 +10,7 @@
 **Today's Progress**: Spent time in a JS course in udemy and started a new proyect that is cotizador de criptomonedas.
 
 **Thoughts:** I'm a little bit tired, but still wanna code.
-### Day 3: February 3. Thursday
+### Day 3: February 3. Friday
 
 **Today's Progress**: Create a basic calculator. 
 
