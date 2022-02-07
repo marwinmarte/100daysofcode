@@ -20,5 +20,11 @@
 **Today's Progress**: I started to create my personal portfolio. 
 
 **Thoughts:** I felt so happy coding I think was in the mood haha, and today I used CSS a lot and I think I need to practice more.
+### Day 5: February 6. Saturday
+
+**Today's Progress**: I continued coding in my personal portfolio. 
+
+**Thoughts:** I felt so tired bc I'm very sleepy.
+
 
 
