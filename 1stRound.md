@@ -30,6 +30,10 @@
 **Today's Progress**: well I continued with the js course and almost finished the cotizador de criptomonedas. 
 
 **Thoughts:** I felt tired and today is Monday hahaha.
+### Day 7: February 8. Tuesday
 
+**Today's Progress**: i finished the cotizador de criptomonedas. 
+
+**Thoughts:** I felt good about completing this little program.
 
 
