@@ -32,8 +32,12 @@
 **Thoughts:** I felt tired and today is Monday hahaha.
 ### Day 7: February 8. Tuesday
 
-**Today's Progress**: i finished the cotizador de criptomonedas. 
+**Today's Progress**: I finished the cotizador de criptomonedas. 
 
 **Thoughts:** I felt good about completing this little program.
+### Day 8: February 9. wednesday
 
+**Today's Progress**: I started with a new program 'calculadora de propinas'. 
+
+**Thoughts:** I was a bit frustrated cuz I was trying to create an API and my terminal didn't wanna work, but in the end I was able to solve the problem with the terminal in VS.
 
