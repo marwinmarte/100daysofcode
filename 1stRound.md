@@ -42,5 +42,12 @@
 **Thoughts:** I was a bit frustrated cuz I was trying to create an API and my terminal didn't wanna work, but in the end I was able to solve the problem with the terminal in VS.
 ### February 10.
 ### February 11.
-**Thoughts:** This two days i wasn't able to code because i wasn't in my house and i didn't have a computer to use.
+**Thoughts:** This two days I wasn't able to code because I wasn't in my house and I didn't have a computer to use.
+### Day 9: February 12. Saturday
+
+**Today's Progress**: I continue with my portafolio. 
+
+**Thoughts:** I didn't feel good emotionally but I was still able to code for a while.
+
+
 
