@@ -40,4 +40,7 @@
 **Today's Progress**: I started with a new program 'calculadora de propinas'. 
 
 **Thoughts:** I was a bit frustrated cuz I was trying to create an API and my terminal didn't wanna work, but in the end I was able to solve the problem with the terminal in VS.
+### February 10.
+### February 11.
+**Thoughts:** This two days i wasn't able to code because i wasn't in my house and i didn't have a computer to use.
 
