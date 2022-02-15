@@ -48,6 +48,16 @@
 **Today's Progress**: I continue with my portafolio. 
 
 **Thoughts:** I didn't feel good emotionally but I was still able to code for a while.
+### Day 10: February 13. Sunday
+
+**Today's Progress**: I continue with my portafolio. 
+
+**Thoughts:** In the same mood as yesterday
+### Day 11: February 14. Monday
+
+**Today's Progress**: I worked on the 'calculadora de propinas'. 
+
+**Thoughts:** I felt very well today and I was talking with jhostter about the schedule that we are gonna use for this challenge.
 
 
 
