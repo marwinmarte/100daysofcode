@@ -58,10 +58,17 @@
 **Today's Progress**: I worked on the 'calculadora de propinas'. 
 
 **Thoughts:** I felt very well today and I was talking with jhostter about the schedule that we are gonna use for this challenge.
-### Day 11: February 14. Monday
+### Day 12: February 15. Tuesday
 
 **Today's Progress**: I worked on the 'calculadora de propinas'. 
 
-**Thoughts:** I felt very well today and I was talking with jhostter about the schedule that we are gonna use for this challenge.
+**Thoughts:** felling good.
+### Day 13: February 16. wednesday
+
+**Today's Progress**: I focused on css cuz I need to improve my css skills. 
+
+**Thoughts:** And feeling good like I should.
+
+
 
 
