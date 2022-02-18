@@ -68,7 +68,11 @@
 **Today's Progress**: I focused on css cuz I need to improve my css skills. 
 
 **Thoughts:** And feeling good like I should.
+### Day 14: February 17. Thursday
 
+**Today's Progress**: I did a css course in youtube. 
+
+**Thoughts:** I felt great.
 
 
 
