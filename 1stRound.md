@@ -74,5 +74,7 @@
 
 **Thoughts:** I felt great.
 
+# I stopped coding everyday, I don't know why, but all of a sudden I started having trouble coding constantly.
+  ## So I'm gonna try again to complete the 100 days of code challenge.
 
 
