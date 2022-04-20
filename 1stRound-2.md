@@ -10,4 +10,4 @@
 
 **Today's Progress**: Today I worked with css code for the web design certificate.
 
-**Thoughts:** I am very excited and happy that my friend @B14cool started the challenge today.
+**Thoughts:** I am very excited and happy that my friend Brian Martinez (B14cool) started the challenge today.
