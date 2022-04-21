@@ -11,3 +11,9 @@
 **Today's Progress**: Today I worked with css code for the web design certificate.
 
 **Thoughts:** I am very excited and happy that my friend Brian Martinez (B14cool) started the challenge today.
+
+### Day 3: April 20. Wednesday
+
+**Today's Progress**: Today I worked with css code for the web design certificate.
+
+**Thoughts:** I am very excited and happy that my friend Brian Martinez (B14cool) started the challenge today.
