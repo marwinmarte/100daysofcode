@@ -14,6 +14,12 @@
 
 ### Day 3: April 20. Wednesday
 
-**Today's Progress**: Today I worked with css code for the web design certificate.
+**Today's Progress**: Today I continued with the web design certificate.
 
-**Thoughts:** I am very excited and happy that my friend Brian Martinez (B14cool) started the challenge today.
+**Thoughts:** Sleepy.
+
+### Day 4: April 21. Thursday
+
+**Today's Progress**: Same as yesterday.
+
+**Thoughts:** Today was a great day but I couldn't coding as much I want.
