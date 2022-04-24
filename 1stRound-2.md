@@ -32,9 +32,9 @@
 
 ### Day 4: April 23. Saturday
 
-**Today's Progress**: Same as yesterday.
+**Today's Progress**: I worked with css code for the web design certificate and start the new module applied visual design.
 
-**Thoughts:** Today was a great day but I couldn't coding as much I want.
+**Thoughts:** Today was a great day of coding but I was mad because someone cut my ethernet cable and another situation that happened in my house, I also had to move my computer to another desk which is not comfortable, but tomorrow will be a better day.
 
 
 
