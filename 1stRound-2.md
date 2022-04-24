@@ -23,3 +23,18 @@
 **Today's Progress**: Same as yesterday.
 
 **Thoughts:** Today was a great day but I couldn't coding as much I want.
+
+### Day 5: April 22. Friday
+
+**Today's Progress**: Well, I just did some programming today and spent it watching programming videos.
+
+**Thoughts:** I'm too tired, today was a though day.
+
+### Day 4: April 23. Saturday
+
+**Today's Progress**: Same as yesterday.
+
+**Thoughts:** Today was a great day but I couldn't coding as much I want.
+
+
+
