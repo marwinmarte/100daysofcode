@@ -30,11 +30,24 @@
 
 **Thoughts:** I'm too tired, today was a though day.
 
-### Day 4: April 23. Saturday
+### Day 6: April 23. Saturday
 
 **Today's Progress**: I worked with css code for the web design certificate and start the new module applied visual design.
 
 **Thoughts:** Today was a great day of coding but I was mad because someone cut my ethernet cable and another situation that happened in my house, I also had to move my computer to another desk which is not comfortable, but tomorrow will be a better day.
+
+### Day 7: April 24. Sunday
+
+**Today's Progress**: I code for almost an hour and I watched a few programing videos.
+
+**Thoughts:** Tired.
+
+### Day 8: April 23. Monday
+
+**Today's Progress**: Continue the Responsive web design course.
+
+**Thoughts:** I'm tired because I don't wanna work in a call center anymore it's very stressful 🥲, I want to get a programming job.
+
 
 
 
