@@ -46,7 +46,7 @@
 
 **Today's Progress**: Continue the Responsive web design course.
 
-**Thoughts:** I'm tired because I don't wanna work in a call center anymore it's very stressful 🥲, I want to get a programming job.
+**Thoughts:** I'm tired because I don't wanna work in a call center anymore it's very stressful😭, I want to get a programming job.
 
 
 
