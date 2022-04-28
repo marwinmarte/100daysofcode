@@ -42,11 +42,15 @@
 
 **Thoughts:** Tired.
 
-### Day 8: April 23. Monday
+### Day 8: April 25. Monday
 
 **Today's Progress**: Continue the Responsive web design course.
 
 **Thoughts:** I'm tired because I don't wanna work in a call center anymore it's very stressful😭, I want to get a programming job.
+
+### Day 9: April 27. wednesday
+
+**Today's Progress**: Continue the Responsive web design course.
 
 
 
