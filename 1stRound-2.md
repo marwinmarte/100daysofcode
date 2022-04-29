@@ -48,10 +48,17 @@
 
 **Thoughts:** I'm tired because I don't wanna work in a call center anymore it's very stressful😭, I want to get a programming job.
 
+### Day --: April 26. Tuesday
+
+**Today's Progress**: It was a difficult day where I couldn't code, so watched some programming content.
+
 ### Day 9: April 27. wednesday
 
 **Today's Progress**: Continue the Responsive web design course.
 
+### Day 10: April 28. thursday
+
+**Today's Progress**: Continue the Responsive web design course same as yesterday.
 
 
 
