@@ -60,5 +60,12 @@
 
 **Today's Progress**: Continue the Responsive web design course same as yesterday.
 
+### Day 11: April 29. Friday
 
+**Today's Progress**: Today I worked with css code.
 
+### Day 10: April 30. Saturday
+
+**Today's Progress**: Today I code for a While. 
+
+**Thoughts:** I'm happy but also I feel tired hahaha. 
