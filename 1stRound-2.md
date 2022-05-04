@@ -69,3 +69,9 @@
 **Today's Progress**: Today I code for a While. 
 
 **Thoughts:** I'm happy but also I feel tired hahaha. 
+
+### Day 11: may 3. Tuesday
+
+**Today's Progress**: Today I code and I feel happy going back to code after 2 day without coding
+
+**Thoughts:** I'm happy.
