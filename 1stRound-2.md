@@ -75,3 +75,9 @@
 **Today's Progress**: Today I code and I feel happy going back to code after 2 day without coding.
 
 **Thoughts:** I'm happy.
+
+### Day 11: may 4th be with you. Wednesday
+
+**Today's Progress**: Today I was coding in my portfolio, I going to try to code in my portfolio everyday at least 10 min.
+
+**Thoughts:** May the Force be with you.
