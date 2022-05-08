@@ -60,26 +60,34 @@
 
 **Today's Progress**: Continue the Responsive web design course same as yesterday.
 
-### Day 11: April 29. Friday
+### Day 12: April 29. Friday
 
 **Today's Progress**: Today I worked with css code.
 
-### Day 10: April 30. Saturday
+### Day 13: April 30. Saturday
 
 **Today's Progress**: Today I code for a While. 
 
 **Thoughts:** I'm happy but also I feel tired hahaha. 
 
-### Day 11: may 3. Tuesday
+### Day 14: may 3. Tuesday
 
 **Today's Progress**: Today I code and I feel happy going back to code after 2 day without coding.
 
 **Thoughts:** I'm happy.
 
-### Day 11: may 4th be with you. Wednesday
+### Day 15: may 4th be with you. Wednesday
 
 **Today's Progress**: Today I was coding in my portfolio, I going to try to code in my portfolio everyday at least 10 min.
 
 **Thoughts:** May the Force be with you.
+
+### Day 16: may 6. Friday
+
+**Today's Progress**: Today I was coding in my portfolio, I going to try to code in my portfolio everyday at least 10 min.
+
+### Day 17: may 7. Saturday
+
+**Today's Progress**: Today I was coding in my portfolio, I going to try to code in my portfolio everyday at least 10 min.
 
 
