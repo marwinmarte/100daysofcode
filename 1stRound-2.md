@@ -84,7 +84,7 @@
 
 ### Day 16: may 6. Friday
 
-**Today's Progress**: Today I was coding in my portfolio, I going to try to code in my portfolio everyday at least 10 min.
+**Today's Progress**: Just code in my portfolio.
 
 ### Day 17: may 7. Saturday
 
