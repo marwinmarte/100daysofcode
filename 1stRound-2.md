@@ -88,6 +88,11 @@
 
 ### Day 17: may 7. Saturday
 
-**Today's Progress**: Today I was coding in my portfolio, I going to try to code in my portfolio everyday at least 10 min.
+**Today's Progress**: Today I was coding in my portfolio.
 
+### Day 18: may 8. Sunday
+
+**Today's Progress**: I was coding in js for my portfolio and I opened my CodeWars account again to start doing a kata every day.
+
+**Thoughts:** I feeling great.
 
