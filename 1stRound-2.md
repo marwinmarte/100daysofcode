@@ -98,7 +98,7 @@
 
 ### Day 19: may 9. Monday
 
-**Today's Progress**: I worked in my portfolio and also I did a kata challenge which was 'Multiples of 3 and 5'.
+**Today's Progress**: I worked in my portfolio and also I did a kata challenge which was 'Multiples of 3 and 5' in JS.
 
 **Thoughts:** I wanna have a job in IT.
 
