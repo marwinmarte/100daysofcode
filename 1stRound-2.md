@@ -102,5 +102,12 @@
 
 **Thoughts:** I wanna have a job in IT.
 
+### Day 20: may 10. Tuesday
 
+**Today's Progress**: I worked in freecodecamp and I had a meeting about programming jobs with my friend Brian.
 
+### Day 21: may 10. Thursday
+
+**Today's Progress**: I just worked in freecodecamp. 
+
+**Thoughts:** I wanna be more consistent with my programming and I wanna spend more time on it.
