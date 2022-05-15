@@ -106,8 +106,12 @@
 
 **Today's Progress**: I worked in freecodecamp and I had a meeting about programming jobs with my friend Brian.
 
-### Day 21: may 10. Thursday
+### Day 21: may 11. Thursday
 
 **Today's Progress**: I just worked in freecodecamp. 
 
 **Thoughts:** I wanna be more consistent with my programming and I wanna spend more time on it.
+
+### Day 22: may 14. Saturday
+
+**Today's Progress**: I code a registration form in freecodecamp.
