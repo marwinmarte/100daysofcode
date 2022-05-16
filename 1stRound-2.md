@@ -115,3 +115,7 @@
 ### Day 22: may 14. Saturday
 
 **Today's Progress**: I code a registration form in freecodecamp.
+
+### Day 23: may 15. Sunday
+
+**Today's Progress**: I start js course "JavaScript Algorithms and Data Structures" in freecodecamp.
