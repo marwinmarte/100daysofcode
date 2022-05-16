@@ -119,3 +119,5 @@
 ### Day 23: may 15. Sunday
 
 **Today's Progress**: I start js course "JavaScript Algorithms and Data Structures" in freecodecamp.
+
+**Thoughts:** I'm happy, I almost finish the 1st quarter of #100daysofcode.
