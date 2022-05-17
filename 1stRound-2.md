@@ -122,7 +122,7 @@
 
 **Thoughts:** I'm happy, I almost finish the 1st quarter of #100daysofcode.
 
-### Day 23: may 15. Sunday
+### Day 24: may 16. Monday
 
 **Today's Progress**: Today I started to study GIT, and for tomorrow I wanna start with the angular course in Udemy.
 
