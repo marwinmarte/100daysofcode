@@ -121,3 +121,9 @@
 **Today's Progress**: I start js course "JavaScript Algorithms and Data Structures" in freecodecamp.
 
 **Thoughts:** I'm happy, I almost finish the 1st quarter of #100daysofcode.
+
+### Day 23: may 15. Sunday
+
+**Today's Progress**: Today I started to study GIT, and for tomorrow I wanna start with the angular course in Udemy.
+
+**Thoughts:** I'm so excited, today was my first day studying the pioneer book and I started coding early tonight.
