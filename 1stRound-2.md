@@ -127,3 +127,14 @@
 **Today's Progress**: Today I started to study GIT, and for tomorrow I wanna start with the angular course in Udemy.
 
 **Thoughts:** I'm so excited, today was my first day studying the pioneer book and I started coding early tonight.
+
+### Day #: may 17. Tuesday
+
+**Today's Progress**: Today I couldn't program but I could watch programming videos, the power went out and that's why I couldn't do anything.
+
+### Day 25: may 18. Monday
+
+**Today's Progress**: ---
+
+**Thoughts:** ---
+
