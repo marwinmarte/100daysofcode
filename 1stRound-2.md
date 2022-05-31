@@ -134,5 +134,5 @@
 
 ### After this, I spent 10 days without programming, because I was going through a difficult situation in my life and I couldn't program continuously. 
 
-BUT NOW I'M HERE TO START THE 2ND ROUND FOR THIS CHALLENGE.
+## BUT NOW I'M HERE TO START THE 2ND ROUND FOR THIS CHALLENGE.
 
