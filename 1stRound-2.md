@@ -128,13 +128,11 @@
 
 **Thoughts:** I'm so excited, today was my first day studying the pioneer book and I started coding early tonight.
 
-### Day #: may 17. Tuesday
+### Day 25: may 17. Tuesday
 
 **Today's Progress**: Today I couldn't program but I could watch programming videos, the power went out and that's why I couldn't do anything.
 
-### Day 25: may 18. Monday
+### After this, I spent 10 days without programming, because I was going through a difficult situation in my life and I couldn't program continuously. 
 
-**Today's Progress**: ---
-
-**Thoughts:** ---
+BUT NOW I'M HERE TO START THE 2ND ROUND FOR THIS CHALLENGE.
 
